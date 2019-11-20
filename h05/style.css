@@ -1,0 +1,46 @@
+#Appel {
+    position: absolute;
+    top: 129px;
+    left: 10px;
+}
+
+#bus {
+    position: absolute;
+    top: 129px;
+    left: 520px;
+}
+
+#desk {
+    position: absolute;
+    top: 249px;
+    left: 520px;
+}
+
+#pythagoras {
+    position: absolute;
+    top: 369px;
+    left: 520px;
+}
+
+#First\ Text {
+    position: absolute;
+    top: 480px;
+}
+
+#Second\ Text {
+    position: absolute;
+    top: 480px;
+    left: 550px;
+}
+
+#Football {
+    position: absolute;
+    top: 570px;
+    left: 550px;
+}
+
+#Third\ Text {
+    position: absolute;
+    top: 480px;
+    left: 1020px;
+}
